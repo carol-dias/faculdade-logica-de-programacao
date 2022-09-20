@@ -1,2 +1,2 @@
 # Faculdade
-Exercícios realizados no decorrer do curso de Bacharelado em Engenharia de Software.
+Exercícios realizados no trabalho entregue para avaliação na disciplina de "Lógica de Programação e Algoritmos" do curso de Engenharia de Software da Uninter
